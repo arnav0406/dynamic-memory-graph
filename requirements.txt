@@ -1,0 +1,7 @@
+ollama>=0.3.0
+networkx>=3.2
+rank-bm25>=0.2.2
+sentence-transformers>=2.7.0
+faiss-cpu>=1.8.0
+numpy>=1.24
+streamlit>=1.35.0
